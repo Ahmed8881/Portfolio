@@ -196,7 +196,7 @@ section .title::after{
     color: crimson;
     font-weight: 500;
 }
-.home .home-content a{
+.Btn1{
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -563,6 +563,7 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+/* New Button */
 
 /* responsive media query start */
 @media (max-width: 1104px) {
