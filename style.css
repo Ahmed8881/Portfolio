@@ -48,6 +48,7 @@ section{
     justify-content: space-between;
 }
 section .title{
+    color: #41116b;
     position: relative;
     text-align: center;
     font-size: 40px;
@@ -223,8 +224,8 @@ section .title::after{
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f2f2f2;
-    color: #333;
+    background-color:#110818 ;
+    color: white;
 }
 
 /* About Section Styling */
@@ -499,6 +500,7 @@ section.about {
     background: lightgrey;
     position: relative;
 }
+/* #110818 */
 .skills .skills-content .right .line::before{
     content: "";
     position: absolute;
@@ -600,6 +602,7 @@ color: white;
 
 /* contact section styling */
 .contact .title::after{
+background-color:  #110818;
     content: "get in touch";
 }
 .contact .contact-content .column{
