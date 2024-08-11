@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: #693DC3;
+    color: #B798F5;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -230,7 +230,7 @@ body {
 /* About Section Styling */
 section.about {
     padding: 100px 0;
-    background-color:#383636;
+    background-color:#110818;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -405,7 +405,7 @@ section.about {
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: #111;
+    background: #050709;
 }
 .services .title::before,
 .teams .title::before{
