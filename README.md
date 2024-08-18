@@ -36,9 +36,8 @@ To set up this portfolio locally, follow these steps:
 ## Contribute
 I welcome contributions to this portfolio! If you have suggestions or improvements, please follow these steps to contribute:
 Fork the Repository: Click on the "Fork" button at the top right of this repository page.
-2. **Commit your changes**
  ```bash
-    git checkout -b your-branch-name
+git checkout -b your-branch-name
 git add .
 git commit -m "Description of your changes"
 git push origin your-branch-name
